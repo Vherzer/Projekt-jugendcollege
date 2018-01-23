@@ -22,7 +22,7 @@ a:hover {
 }
 
 .navbar-default {
-	background-color:828282;
+	background-color:#ADD8E6;
 	border-radius:0;
 	border-right:0;
 	border-left:0;
@@ -522,7 +522,7 @@ h4.heading {
 .widgetheading {
 	width:100%;
 	padding:0;
-	color:#ADD8E6;
+	color:#339999;
 	margin-bottom:30px;
 }
 .widget address{
