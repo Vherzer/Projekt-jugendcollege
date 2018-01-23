@@ -1,0 +1,54 @@
+
+
+h1, h4, h2, h3, span, tr, h5{
+
+	color: black;
+	line-height:1.7;
+}
+
+.btn-success{
+background-color: #50c0e9;
+
+}
+label{
+	color: black;
+}
+
+ .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+
+    .row.content {
+
+    	height: 1800px;
+    }
+
+    .pq{
+
+    	width: 70%;
+    	height: 700px;
+   
+    	margin: 0 auto;
+    	border: 1px solid black;
+    }
+
+    .table {
+    max-width: 100%;
+    margin-bottom: 20px;
+
+    margin: 0 auto;
+    box-shadow: 0px 1px 3px 1px black;
+    }
+
+  	th{
+
+  		color: black;
+  		height: 50px;
+
+  	}
+section {
+
+	width: 80%;
+	margin: 0 auto;
+}
